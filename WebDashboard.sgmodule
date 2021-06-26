@@ -1,0 +1,9 @@
+#!name=Web Dashboard
+#!desc=Web Dashboard for macOS
+#!system=mac
+
+[General]
+# Web Dashboard for macOS
+external-controller-access = luzhaohui@0.0.0.0:6170
+http-api = luzhaohui@0.0.0.0:6055
+http-api-web-dashboard = true
